@@ -1,4 +1,4 @@
 kaggle
 ======
 
-Playing with Kaggle using FSLab Journal
+Playing with [Kaggle](http://www.kaggle.com/) using [FSLab Journal](https://github.com/tpetricek/FsLab).
